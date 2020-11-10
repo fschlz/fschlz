@@ -24,7 +24,7 @@ I've been optimizing/building ML pipelines and developing tools at Exactag (AdTe
 ## 🤖 Tech
 
 My main gig is Python + SQL but I am also learning more about web-technologies to become a full stack dev.
-At the moment I am focused on learning Flask, as a front-end tool.
+At the moment I am focused on learning Flask, as a web dev tool.
 Besides the mentioned languages I also have initial exposure to Java, JavaScript, Scala and Julia.
 
 ## 🎓 Academia
