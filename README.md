@@ -23,18 +23,17 @@ I've been optimizing/building ML pipelines and developing tools at Exactag (AdTe
 
 ## 🤖 Tech
 
-My main gig is Python + SQL but I am also learning more about web-technologies to become a full stack dev.
-At the moment I am focused on learning Flask, as a web dev tool.
-Besides the mentioned languages I also have initial exposure to Java, JavaScript, Scala and Julia.
+My main languages are Python + SQL and I am learning more about web-technologies and infrastructure to become a ML Engineer.
+Besides the mentioned languages I also have initial exposure to a couple others like Java, JavaScript, Scala and Go.
 
 ## 🎓 Academia
 
 I'm not native to CS, as my background is in Economics & Business Administrations.
-However, I'm stepping up my engineering game by doing a Master's degree (part-time) in Data Science at Uni Mannheim & University of Applied Sciences Albstadt-Sigmaringen.
+However, I'm stepping up my engineering game by doing a Master's degree (extra-occupational) in Data Science at Uni Mannheim & University of Applied Sciences Albstadt-Sigmaringen.
 
 ## ☕️🌲 Leisure
 
-- Apart from coding I love specialty coffee (Ethiopian & Costa Rica 👌🏼) and being outdoors. I run, I hike, I climb.
+Apart from coding I love specialty coffee (Ethiopian & Costa Rica 👌🏼) and being outdoors. I run, I hike, I climb.
 
 ## 📞 Contact
 
