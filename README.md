@@ -37,5 +37,6 @@ Apart from coding I love specialty coffee (Ethiopian & Costa Rica 👌🏼) and 
 
 ## 📞 Contact
 
-- You can find me on Twitter [@f_schlz](https://twitter.com/f_schlz)
+- You can find me on [Medium.com](fschulz.medium.com)
+- or Twitter [@f_schlz](https://twitter.com/f_schlz)
 - or on [LinkedIn](https://www.linkedin.com/in/francisco-schulz/)
