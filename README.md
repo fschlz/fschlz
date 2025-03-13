@@ -6,7 +6,7 @@ I lead, I strategize, and I make life easy for companies by building ML & AI-sup
 
 Main gig: **Technical Account Manager AI/MLOp**s for North America at [Comet ML](https://comet.com/)
 
-Side project: AI & Strategy Advisor at [Niche Mates](https://nichemat.es/)
+Side project: **AI & Strategy Advisor** at [Niche Mates](https://nichemat.es/)
 
 Previously:
 **MLOps lead** at [knecon.com](https://knecon.com)
